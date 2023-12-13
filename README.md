@@ -19,7 +19,7 @@ $ git remote remove origin
 $ git remote -v #  
 ---
 6.
-$ git remote add origin <ссылка чтобы привязать локальный и удалённый репозитории>
+$ git remote add origin <ссылка чтобы привязать локальный и удалённый репозитории><br>
 $ git remote add origin https://github.com/VolodeaMir/Test-Repo-2.git
 ---
 7.
